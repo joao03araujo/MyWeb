@@ -3,7 +3,7 @@ const Body = () => {
     return(
         <div>
           <div className="principal" style={{}}>
-           <img src="#" alt="Sem imagem"/>
+           {/* <img src="#" alt="Sem imagem"/> */}
           </div>
         </div>
     );
