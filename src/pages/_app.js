@@ -6,7 +6,7 @@ const App = ({ Component, pageProp }) => {
     return (
         <div>
             <Head>
-                <title>MyWeb</title>
+                <title>MyWebApp</title>
             </Head>
             <Component {...pageProp} />
 

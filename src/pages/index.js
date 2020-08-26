@@ -9,7 +9,7 @@ const IndexPage = () => {
             <Header/>
             <div className="container-fluid">
              <Body/>
-             <Footer/>
+             {/* <Footer/> */}
             </div>
         </div>
     );
