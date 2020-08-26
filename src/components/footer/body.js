@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
         <div>
-            <div className="RodaPe" style={{ backgroundColor: '#DCDCDC', height: '150px', width:'100%'}}>
+            <div className="RodaPe" style={{ backgroundColor: '#DCDCDC', height: '150px', width:'100%', marginTop:'25px'}}>
                 <div className="Logo">
 
                 </div>
