@@ -29,7 +29,7 @@ const Body = () => {
                     </div>
                     <div className='esquerda' style={{ width: '60%', float: 'left', padding: '50px' }}>
                         <p style={{ textAlign: 'center', fontSize: '22px' }}>Criador</p>
-                        <p style={{ textAlign: 'center', marginBottom: '0px', fontSize: '20px' }}>Olá, me chamo João Paulo e estou cursando o último ano do Ensino Médio e Técnico, no colégio ETEP em SJC.</p>
+                        <p style={{ textAlign: 'center', marginBottom: '0px', fontSize: '20px' }}>Olá, me chamo João Paulo e estou cursando e sou formado no Ensino Médio e Técnico, no colégio ETEP em SJC.</p>
                         <p style={{ textAlign: 'center', fontSize: '20px' }}> Sou uma pessoa apaixonada por tecnologia de forma em geral.</p>
                         <p style={{ textAlign: 'center', fontSize: '20px' }}> O MyWebApp é um dos meus repositórios no GitHub, da uma conferida lá nos outros, só clicar no botão abaixo.</p>
 
@@ -45,14 +45,14 @@ const Body = () => {
                     <p style={{ textAlign: 'center', fontSize: '33px', clear:'both'}}>Skills</p>
                     <p style={{ marginBottom: '0px', textAlign: 'center', fontSize: '20px' }}> As minhas skills de programção, são voltadas tanto para front-end, <br></br>quanto back-end e banco de dados.</p>
                     <p style={{ marginBottom: '0px', textAlign: 'center', fontSize: '20px', marginBottom:'20px'}}> São elas:</p>
-                    <ul style={{marginLeft:'450px'}}>
+                    <ul style={{marginLeft:'500px'}}>
                         <li>HTML5-CSS3</li>
                         <li>Asp.net</li>
                         <li>Next.js</li>
                         <li>Reactjs</li>
                         <li>Node.js</li>
                     </ul>
-                    <ul style={{marginLeft:'650px', marginTop:'-130px'}}>
+                    <ul style={{marginLeft:'700px', marginTop:'-130px'}}>
                         <li>MySQL</li>
                         <li>SPA-SSR</li>
                         <li>Android</li>

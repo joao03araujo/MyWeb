@@ -1,12 +1,14 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'font-awesome/css/font-awesome.min.css';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const App = ({ Component, pageProp }) => {
     return (
         <div>
             <Head>
                 <title>MyWebApp</title>
+                <link rel="icon" href="/logo.png"/>
             </Head>
             <Component {...pageProp} />
 

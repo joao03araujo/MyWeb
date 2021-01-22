@@ -2,7 +2,7 @@
   "name": "myweb",
   "version": "0.1.0",
   "scripts": {
-    "start": "next dev ./src -p 3000",
+    "start": "next dev ./src -p 8080",
     "build": "next build"
   },
   "dependencies": {
